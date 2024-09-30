@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using Store.Data.Entities;
 using Store.Repository.Interfaces;
+using Store.Repository.Specification.Product;
+using Store.Service.Helper;
 using Store.Service.Services.Product.Dto;
 using System;
 using System.Collections.Generic;
@@ -29,11 +31,21 @@ namespace Store.Service.Services.Product
             return mappedBrands;
         }
 
-        public async Task<IReadOnlyList<ProductDetailsDto>> GetAllProductAsync()
+        public async Task<PaginatedResultDto<ProductDetailsDto>> GetAllProductAsync(ProductSpecification input)
         {
-            var products =  await _unitOfWork.Repository<Store.Data.Entities.Product,int>().GetAllAsync();
+            var specs = new ProducrWithSpecifications(input);
+
+            var products =  await _unitOfWork.Repository<Store.Data.Entities.Product,int>().GetAllAsyncWithSpecification(specs);
+           
+            var countSpecs =  new ProductWithCountSpecification(input);
+
+            var count = await _unitOfWork.Repository<Store.Data.Entities.Product, int>().GetCountSpecificationAsync(countSpecs);
+
             var mappedProducts = _mapper.Map<IReadOnlyList<ProductDetailsDto>>(products);
-            return mappedProducts;
+
+
+
+            return new PaginatedResultDto<ProductDetailsDto>(input.PageSize, input.PageIndex , count, mappedProducts);
         }
 
         public async Task<IReadOnlyList<BrandTypesDetailsDto>> GetAllTypesAsync()
@@ -51,7 +63,10 @@ namespace Store.Service.Services.Product
             {
                 throw new Exception("Id Is Null");
             }
-            var product = await _unitOfWork.Repository<Store.Data.Entities.Product, int>().GetByIdAsync(productId.Value);
+
+            var specs = new ProducrWithSpecifications(productId);
+
+            var product = await _unitOfWork.Repository<Store.Data.Entities.Product, int>().GetWithSpecificationByIdAsync(specs);
 
             if (product is null)
             {

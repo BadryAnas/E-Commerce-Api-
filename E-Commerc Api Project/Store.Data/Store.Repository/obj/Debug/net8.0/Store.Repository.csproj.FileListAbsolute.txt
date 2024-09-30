@@ -13,3 +13,4 @@ E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Repository\obj\Deb
 E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
 E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
 E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
+E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.sourcelink.json

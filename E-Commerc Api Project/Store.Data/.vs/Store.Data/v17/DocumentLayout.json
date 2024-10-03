@@ -3,96 +3,56 @@
   "WorkspaceRootPath": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\specification\\product\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\product\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\specification\\product\\producrwithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\product\\producrwithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\specification\\product\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\product\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\cacheservice\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\cacheservice\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\cacheservice\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\cacheservice\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.web\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F68237F-3341-4755-B6AF-914F86A99017}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\handleresponses\\validationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\handleresponses\\validationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\handleresponses\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\handleresponses\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\handleresponses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\handleresponses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\product\\dto\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\product\\dto\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\product\\dto\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\product\\dto\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\product\\dto\\brandtypesdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\product\\dto\\brandtypesdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.service\\services\\product\\dto\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1E8C64-538B-4E06-B896-0274B5E34CC6}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\product\\dto\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.data\\entities\\brandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\brandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.data\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.data\\migrations\\20240925204821_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D6F1D36-AD7A-4944-812F-84559A7A6DB9}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\migrations\\20240925204821_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|e:\\back-end course\\api\\e-commerc api project\\store.data\\store.repository\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB9CE6-4FBB-4C2C-A520-4646C8642B23}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,292 +75,171 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProducrWithSpecifications.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\Product\\ProducrWithSpecifications.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\Product\\ProducrWithSpecifications.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\Product\\ProducrWithSpecifications.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\Product\\ProducrWithSpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Helper\\CacheAttribute.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
+              "RelativeToolTip": "Store.Web\\Helper\\CacheAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T03:20:17.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductWithCountSpecification.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\Product\\ProductWithCountSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\Product\\ProductWithCountSpecification.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\Product\\ProductWithCountSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\Product\\ProductWithCountSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T05:21:12.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductSpecification.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\Product\\ProductSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\Product\\ProductSpecification.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\Product\\ProductSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\Product\\ProductSpecification.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T03:19:05.34Z",
+              "WhenOpened": "2024-10-03T05:16:31.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\ProductService.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\Product\\ProductService.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\ProductService.cs",
-              "RelativeToolTip": "Store.Service\\Services\\Product\\ProductService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwC8AAABkAAAA",
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\CacheService\\CacheService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\CacheService\\CacheService.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\CacheService\\CacheService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\CacheService\\CacheService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:28:50.012Z",
+              "WhenOpened": "2024-10-03T04:28:52.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Repositories\\GenericRepository.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Store.Repository\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDIAAAA9AAAA",
+              "DocumentIndex": 2,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T02:06:53.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Store.Repository\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T02:03:58.418Z",
+              "WhenOpened": "2024-10-03T04:23:55.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PaginatedResultDto.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Helper\\PaginatedResultDto.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
-              "RelativeToolTip": "Store.Service\\Helper\\PaginatedResultDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAA1AAAA",
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Extensions\\ApplicationServicesExtension.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "Store.Web\\Extensions\\ApplicationServicesExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T05:09:18.75Z",
+              "WhenOpened": "2024-10-02T05:42:05.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\IProductService.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\Product\\IProductService.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\IProductService.cs",
-              "RelativeToolTip": "Store.Service\\Services\\Product\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:28:23.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SpecificationEvaluator.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\SpecificationEvaluator.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\SpecificationEvaluator.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\SpecificationEvaluator.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\SpecificationEvaluator.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T01:24:57.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseSpecification.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\BaseSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\BaseSpecification.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\BaseSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\BaseSpecification.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T00:52:49.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISpecification.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\ISpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ISpecification.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\Specification\\ISpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ISpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T00:46:05.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StoreContextSeed.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\StoreContextSeed.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\StoreContextSeed.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\StoreContextSeed.cs",
-              "RelativeToolTip": "Store.Repository\\StoreContextSeed.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAAEAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:35:27.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Program.cs",
               "RelativeDocumentMoniker": "Store.Web\\Program.cs",
               "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Program.cs",
               "RelativeToolTip": "Store.Web\\Program.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAQwD4AAAAmAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:22:25.317Z",
+              "WhenOpened": "2024-10-02T05:02:25.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:57:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBUAAABgAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:29:33.872Z",
+              "WhenOpened": "2024-10-01T14:37:15.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\Product\\Dto\\ProductProfile.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\ProductProfile.cs",
-              "RelativeToolTip": "Store.Service\\Services\\Product\\Dto\\ProductProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:10:41.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
               "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Web\\appsettings.json",
               "RelativeToolTip": "Store.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-25T20:23:58.344Z"
+              "WhenOpened": "2024-10-01T14:38:55.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
+              "Title": "ValidationErrorResponse.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\HandleResponses\\ValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Store.Service\\HandleResponses\\ValidationErrorResponse.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\HandleResponses\\ValidationErrorResponse.cs",
+              "RelativeToolTip": "Store.Service\\HandleResponses\\ValidationErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:14:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\HandleResponses\\CustomException.cs",
+              "RelativeDocumentMoniker": "Store.Service\\HandleResponses\\CustomException.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\HandleResponses\\CustomException.cs",
+              "RelativeToolTip": "Store.Service\\HandleResponses\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:09:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\HandleResponses\\Response.cs",
+              "RelativeDocumentMoniker": "Store.Service\\HandleResponses\\Response.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\HandleResponses\\Response.cs",
+              "RelativeToolTip": "Store.Service\\HandleResponses\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:59:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductPictureUrlResolver.cs",
               "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\ProductPictureUrlResolver.cs",
               "RelativeDocumentMoniker": "Store.Service\\Services\\Product\\Dto\\ProductPictureUrlResolver.cs",
               "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\ProductPictureUrlResolver.cs",
               "RelativeToolTip": "Store.Service\\Services\\Product\\Dto\\ProductPictureUrlResolver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T20:28:31.281Z"
+              "WhenOpened": "2024-10-01T14:40:29.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductType.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Entities\\ProductType.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\ProductType.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Entities\\ProductType.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\ProductType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\StoreContextSeed.cs",
+              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Repository\\StoreContextSeed.cs",
+              "RelativeToolTip": "Store.Repository\\StoreContextSeed.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:59:52.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20240925204821_test.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Migrations\\20240925204821_test.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Migrations\\20240925204821_test.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Migrations\\20240925204821_test.cs",
-              "RelativeToolTip": "Store.Data\\Migrations\\20240925204821_test.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T20:48:21.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductDetailsDto.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\ProductDetailsDto.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\Product\\Dto\\ProductDetailsDto.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\ProductDetailsDto.cs",
-              "RelativeToolTip": "Store.Service\\Services\\Product\\Dto\\ProductDetailsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:29:28.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BrandTypesDetailsDto.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\BrandTypesDetailsDto.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\Product\\Dto\\BrandTypesDetailsDto.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Service\\Services\\Product\\Dto\\BrandTypesDetailsDto.cs",
-              "RelativeToolTip": "Store.Service\\Services\\Product\\Dto\\BrandTypesDetailsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:33:47.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\Product.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Entities\\Product.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:20:06.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BrandType.cs",
-              "DocumentMoniker": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Entities\\BrandType.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\BrandType.cs",
-              "ToolTip": "E:\\Back-End Course\\Api\\E-Commerc Api Project\\Store.Data\\Store.Data\\Entities\\BrandType.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\BrandType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:20:05.465Z"
+              "WhenOpened": "2024-10-01T14:39:21.067Z",
+              "EditorCaption": ""
             }
           ]
         }

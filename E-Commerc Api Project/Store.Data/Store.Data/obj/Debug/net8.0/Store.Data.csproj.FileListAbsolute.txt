@@ -10,3 +10,4 @@ E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Data\obj\Debug\net
 E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
 E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.pdb
 E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll
+E:\Back-End Course\Api\E-Commerc Api Project\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json

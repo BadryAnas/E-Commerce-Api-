@@ -19,7 +19,7 @@ namespace Store.Service.Services.Product.Dto
 
         public string Resolve(Data.Entities.Product source, ProductDetailsDto destination, string destMember, ResolutionContext context)
         {
-            if (string.IsNullOrEmpty(source.PictureUrl))
+            if (!string.IsNullOrEmpty(source.PictureUrl))
             {
                 return $"{_configuration["BaseUrl"]}/{source.PictureUrl}";
             }

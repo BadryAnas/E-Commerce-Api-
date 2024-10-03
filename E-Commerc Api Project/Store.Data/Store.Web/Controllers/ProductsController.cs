@@ -4,6 +4,7 @@ using Microsoft.Identity.Client;
 using Store.Repository.Specification.Product;
 using Store.Service.Services.Product;
 using Store.Service.Services.Product.Dto;
+using Store.Web.Helper;
 
 namespace Store.Web.Controllers
 {
@@ -27,6 +28,7 @@ namespace Store.Web.Controllers
             => Ok(await _productService.GetAllTypesAsync());
 
         [HttpGet]
+        [Cache(10)]
         public async Task<ActionResult<IReadOnlyList<ProductDetailsDto>>> GetAllProductsAsync([FromQuery]ProductSpecification input)
             => Ok(await _productService.GetAllProductAsync(input));
 

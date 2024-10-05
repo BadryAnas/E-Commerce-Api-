@@ -5,6 +5,9 @@ using Store.Service.Services.Product.Dto;
 using Store.Service.Services.Product;
 using Store.Service.HandleResponses;
 using Store.Service.Services.CacheService;
+using Store.Service.Services.BasketService.Dto;
+using Store.Service.Services.BasketService;
+using Store.Repository.Basket;
 
 namespace Store.Web.Extensions
 {
@@ -14,10 +17,16 @@ namespace Store.Web.Extensions
         {
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICacheService, CacheService>();
+            services.AddScoped<IBasketService, BasketService>();
+
+            services.AddScoped<IBasketRepository, BasketRepository>();
+
             services.AddAutoMapper(typeof(ProductProfile));
-  
+            services.AddAutoMapper(typeof(BasketProfile));
+
             services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.InvalidModelStateResponseFactory = actionResult =>

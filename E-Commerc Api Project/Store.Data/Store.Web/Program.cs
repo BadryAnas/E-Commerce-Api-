@@ -45,12 +45,12 @@ namespace Store.Web
             });
 
             builder.Services.AddApplicationServices();
-            builder.Services.AddIdentityService();
+            builder.Services.AddIdentityService(builder.Configuration);
 
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerDocumetation();
 
             var app = builder.Build();
 

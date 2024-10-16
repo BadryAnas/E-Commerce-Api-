@@ -27,5 +27,7 @@ namespace Store.Data.Entities.OrderEntities
         }
         public string?  BasketId { get; set; }
 
+        public string? PaymentIntentId { get; set; }
+
     }
 }

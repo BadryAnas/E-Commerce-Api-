@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Store.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6492a176404716e9b92c7ca72a29e2af96056aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ba3730103a6a6c6498b4a2af3b77724cff43c5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Store.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Store.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

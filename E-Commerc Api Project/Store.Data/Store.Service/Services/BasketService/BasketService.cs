@@ -20,10 +20,10 @@ namespace Store.Service.Services.BasketService
             _basketRepository = basketRepository;
             _mapper = mapper;
         }
-        public async Task<bool> DeleteCustomerAsync(string basketId)
+        public async Task<bool> DeleteBasketAsync(string basketId)
             => await _basketRepository.DeleteCustomerAsync(basketId);
 
-        public async Task<CustomerBasketDto> GetCustomerAsync(string basketId)
+        public async Task<CustomerBasketDto> GetBasketAsync(string basketId)
         {
             var basket = _basketRepository.GetCustomerAsync(basketId);
 
@@ -36,7 +36,7 @@ namespace Store.Service.Services.BasketService
             return mappedCustomerBasket;
         }
 
-        public async Task<CustomerBasketDto> UpdateCustomerAsync(CustomerBasketDto input)
+        public async Task<CustomerBasketDto> UpdateBasketAsync(CustomerBasketDto input)
         {
             if (input.Id == null)
                 input.Id = GenerateRandomBasketId();

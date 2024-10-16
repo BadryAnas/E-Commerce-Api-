@@ -18,17 +18,17 @@ namespace Store.Web.Controllers
 
         [HttpGet("{id}")]
         public async Task<ActionResult<CustomerBasketDto>> GetBasketAsync(string id)
-            => Ok(await _basketService.GetCustomerAsync(id));
+            => Ok(await _basketService.GetBasketAsync(id));
 
 
         [HttpPost]
         public async Task<ActionResult<CustomerBasketDto>> UpdateBasketAsync(CustomerBasketDto input)
-           => Ok(await _basketService.UpdateCustomerAsync(input));
+           => Ok(await _basketService.UpdateBasketAsync(input));
 
 
         [HttpDelete("{id}")]
         public async Task<ActionResult<bool>> DeleteBasketAsync(string id)
-           => Ok(await _basketService.DeleteCustomerAsync(id));
+           => Ok(await _basketService.DeleteBasketAsync(id));
 
     }
 }

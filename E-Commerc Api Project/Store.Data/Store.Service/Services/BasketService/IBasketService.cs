@@ -10,8 +10,8 @@ namespace Store.Service.Services.BasketService
 {
     public interface IBasketService
     {
-        Task<CustomerBasketDto> GetCustomerAsync(string basketId);
-        Task<CustomerBasketDto> UpdateCustomerAsync(CustomerBasketDto basket);
-        Task<bool> DeleteCustomerAsync(string basketId);
+        Task<CustomerBasketDto> GetBasketAsync(string basketId);
+        Task<CustomerBasketDto> UpdateBasketAsync(CustomerBasketDto basket);
+        Task<bool> DeleteBasketAsync(string basketId);
     }
 }
